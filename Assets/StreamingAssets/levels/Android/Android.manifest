@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1760656014
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: level1.ab
+      Dependencies: {}
+    Info_1:
+      Name: level2.ab
+      Dependencies: {}
+    Info_2:
+      Name: level3.ab
+      Dependencies: {}
+    Info_3:
+      Name: level4.ab
+      Dependencies: {}
+    Info_4:
+      Name: level5.ab
+      Dependencies: {}
+    Info_5:
+      Name: level6.ab
+      Dependencies: {}

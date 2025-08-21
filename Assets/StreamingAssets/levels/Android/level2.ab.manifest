@@ -1,0 +1,96 @@
+ManifestFileVersion: 0
+CRC: 4067855326
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: efb9a9c231b4fa049dc6653185cfe112
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 38f6d641ddbb8c009bcc1f5056410236
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: efb9a9c231b4fa049dc6653185cfe112
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 611fd43d7419e964a8078a51c8cb8829, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a60f6b317eab26742b37d9fef62166ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a94d9d421a566f24491cf29b07046252, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a5b343118e0b414b879f292cadd2f3e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d49989db8edc2d34a991ffd9e57f2085, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 08a8dc688bb36ce43ada3fc28eedd871, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9b0c283130001554fa8234073af1e575, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: SerializableDictionary`2/Ele[Monitor.ShapeMonitor,System.Boolean]
+- AssemblyName: Assembly-CSharp
+  ClassName: SerializableDictionary`2/Ele[Monitor.ShapeMonitor,System.Collections.Generic.List`1[System.Int32]]
+- AssemblyName: Assembly-CSharp
+  ClassName: SerializableDictionary`2[Monitor.ShapeMonitor,System.Boolean]
+- AssemblyName: Assembly-CSharp
+  ClassName: SerializableDictionary`2[Monitor.ShapeMonitor,System.Collections.Generic.List`1[System.Int32]]
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/AssetBundle/level2.prefab
+Dependencies: []
